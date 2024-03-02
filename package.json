@@ -20,7 +20,9 @@
     "react-native": "0.73.0"
   },
   "dependencies": {
-    "millionaire-node": "^0.1.1"
+    "millionaire-node": "^0.1.1",
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0"
   },
   "keywords": [],
   "author": "revenkop",
