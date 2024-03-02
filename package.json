@@ -1,12 +1,17 @@
 {
-  "name": "my-simple-baby",
-  "version": "1.0.0",
+  "name": "my-simple-bab",
+  "version": "1.0.01",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revenkop/my-simple-baby.git",
+    "directory": "packages/cli-helpers"
+  },
   "keywords": [],
-  "author": "",
+  "author": "revenkop",
   "license": "ISC"
 }
