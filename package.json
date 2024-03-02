@@ -11,18 +11,11 @@
     "url": "https://github.com/revenkop/my-simple-baby.git",
     "directory": "packages/cli-helpers"
   },
-  "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
-  },
-  "devDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.73.0"
-  },
   "dependencies": {
-    "millionaire-node": "^0.1.1",
+    "axios": "^0.24.0",
     "lodash": "^4.17.21",
-    "axios": "^0.24.0"
+    "millionaire-node": "^0.1.1",
+    "my-simple-bab": "^1.0.3"
   },
   "keywords": [],
   "author": "revenkop",
