@@ -1,6 +1,6 @@
 {
   "name": "my-simple-bab",
-  "version": "1.0.02",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "millionaire-node": "^0.1.1"
-  }
+  },
   "keywords": [],
   "author": "revenkop",
   "license": "ISC"
