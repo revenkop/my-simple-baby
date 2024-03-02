@@ -1,6 +1,6 @@
 {
   "name": "my-simple-bab",
-  "version": "1.0.01",
+  "version": "1.0.02",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,17 @@
     "url": "https://github.com/revenkop/my-simple-baby.git",
     "directory": "packages/cli-helpers"
   },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  },
+  "dependencies": {
+    "millionaire-node": "^0.1.1"
+  }
   "keywords": [],
   "author": "revenkop",
   "license": "ISC"
